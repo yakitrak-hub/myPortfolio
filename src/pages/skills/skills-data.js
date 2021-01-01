@@ -87,12 +87,6 @@ export const skills = {
       skillName: "Assembly",
     },
     {
-      link: "https://aws.amazon.com/",
-      imgAltText: "AWS",
-      imgSrc: L_AWS,
-      skillName: "AWS",
-    },
-    {
       link: "https://www.ibm.com/products/spss-statistics",
       imgAltText: "SPSS",
       imgSrc: L_SPSS,
@@ -171,6 +165,12 @@ export const skills = {
       imgAltText: "GIT",
       imgSrc: L_GIT,
       skillName: "GIT",
+    },
+    {
+      link: "https://aws.amazon.com/",
+      imgAltText: "AWS",
+      imgSrc: L_AWS,
+      skillName: "AWS",
     },
   ],
 };
