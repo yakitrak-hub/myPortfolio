@@ -8,6 +8,7 @@ import About from './pages/about/about.component'
 import Container from "react-bootstrap/Container";
 import Fade from 'react-reveal/Fade'
 import { Parallax } from "react-parallax";
+import Skills from './pages/skills/skills.component'
 
 import './App.css';
 
@@ -31,6 +32,16 @@ const App = () => {
       </Container>
       </Parallax>
       </div>
+      
+
+      <div>
+          <Container className="container-box rounded">
+          <Fade duration={500}>
+          <Skills />
+      </Fade>
+      </Container>
+      </div>
+
     </div>
   );
 }
