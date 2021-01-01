@@ -11,6 +11,8 @@ import { Parallax } from "react-parallax";
 import Skills from './pages/skills/skills.component'
 import Experience from './pages/experience/experience.component'
 import Slide from 'react-reveal/Slide';
+import ContactForm from "./pages/contact-form/contact-form.component";
+
 import './App.css';
 
 const App = () => {
@@ -53,6 +55,17 @@ const App = () => {
       </Container>
       </div>
 
+
+      <div>
+      <Container className="container-box rounded">
+        <Fade duration={500}>
+          <hr />
+          <ContactForm />
+        </Fade>
+      </Container>
+
+
+      </div>
 
 
     </div>

@@ -14,7 +14,7 @@ import "./experience.style.css";
 const Experience = () => {
   return (
     <div id="experience">
-      <h1 className="c" >EXPERIENCE</h1>
+      <h1 className="pt-3 text-center font-details-b pb-3" >EXPERIENCE</h1>
 
       <Jumbotron className="jumbo-style">
         <Container>
@@ -140,6 +140,7 @@ const Experience = () => {
                     <strong> Description: </strong>
                     <ul className="text-left">
                       <li> Created a web application, displaying real-time passenger information on TCAT bus shelters. </li>
+                      <li> The features in the data display included bus time arrivals, bus location map, TCAT announcement bar, bus departed indicator and last bus indicator. </li>
                       <li> The code is versatile enough to now be implemented in a future addition of a new bus shelter from TCAT. </li>
 
                     </ul>
