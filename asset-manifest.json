@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.8cb2dd09.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.4f458119.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.4f458119.chunk.js.map",
+    "main.css": "/myPortfolio/static/css/main.360cd591.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.08e4f302.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.08e4f302.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.b0886c16.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.b0886c16.js.map",
-    "static/js/2.0a87267c.chunk.js": "/myPortfolio/static/js/2.0a87267c.chunk.js",
-    "static/js/2.0a87267c.chunk.js.map": "/myPortfolio/static/js/2.0a87267c.chunk.js.map",
+    "static/js/2.3e33ff22.chunk.js": "/myPortfolio/static/js/2.3e33ff22.chunk.js",
+    "static/js/2.3e33ff22.chunk.js.map": "/myPortfolio/static/js/2.3e33ff22.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
-    "static/css/main.8cb2dd09.chunk.css.map": "/myPortfolio/static/css/main.8cb2dd09.chunk.css.map",
-    "static/js/2.0a87267c.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.0a87267c.chunk.js.LICENSE.txt",
+    "static/css/main.360cd591.chunk.css.map": "/myPortfolio/static/css/main.360cd591.chunk.css.map",
+    "static/js/2.3e33ff22.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.3e33ff22.chunk.js.LICENSE.txt",
+    "static/media/AlienInvaders.34ca27bd.webp": "/myPortfolio/static/media/AlienInvaders.34ca27bd.webp",
+    "static/media/Color.047859bd.webp": "/myPortfolio/static/media/Color.047859bd.webp",
+    "static/media/Embedded.e7a9b302.webp": "/myPortfolio/static/media/Embedded.e7a9b302.webp",
+    "static/media/Lambda.1e01de05.webp": "/myPortfolio/static/media/Lambda.1e01de05.webp",
+    "static/media/PlanetX.c17a13b3.webp": "/myPortfolio/static/media/PlanetX.c17a13b3.webp",
+    "static/media/Productivity.8844fd37.webp": "/myPortfolio/static/media/Productivity.8844fd37.webp",
+    "static/media/Visual.6557e867.webp": "/myPortfolio/static/media/Visual.6557e867.webp",
     "static/media/assembly.93cb7bb3.svg": "/myPortfolio/static/media/assembly.93cb7bb3.svg",
     "static/media/aws.1baaa078.svg": "/myPortfolio/static/media/aws.1baaa078.svg",
     "static/media/contact-form.style.css": "/myPortfolio/static/media/background.48c0b661.webp",
@@ -47,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b0886c16.js",
-    "static/js/2.0a87267c.chunk.js",
-    "static/css/main.8cb2dd09.chunk.css",
-    "static/js/main.4f458119.chunk.js"
+    "static/js/2.3e33ff22.chunk.js",
+    "static/css/main.360cd591.chunk.css",
+    "static/js/main.08e4f302.chunk.js"
   ]
 }
