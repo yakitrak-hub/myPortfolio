@@ -12,6 +12,8 @@ import Skills from './pages/skills/skills.component'
 import Experience from './pages/experience/experience.component'
 import Slide from 'react-reveal/Slide';
 import ContactForm from "./pages/contact-form/contact-form.component";
+import TimeLine from "./components/projects-timeline/projects-timeline.component";
+
 
 import './App.css';
 
@@ -52,6 +54,15 @@ const App = () => {
             <hr />
       <Experience/>
       </Slide>
+      </Container>
+      </div>
+
+      <div>
+      <Container className="container-box rounded">
+        <Slide bottom duration={500}>
+          <hr />
+          <TimeLine />
+        </Slide>
       </Container>
       </div>
 
